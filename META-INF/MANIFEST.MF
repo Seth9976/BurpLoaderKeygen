@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Can-Retransform-Classes: true
+Main-Class: com.h3110w0r1d.burploaderkeygen.KeygenForm
+Premain-Class: com.h3110w0r1d.burploaderkeygen.Loader
+
